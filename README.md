@@ -15,4 +15,3 @@ A sleek and intuitive React Native To-Do app to help you manage your daily tasks
 - 🧠 Built using TypeScript + React Native
 
 ---
-![image](https://github.com/user-attachments/assets/695de64e-2ca1-4e06-9d32-c04550bdf5cb)
